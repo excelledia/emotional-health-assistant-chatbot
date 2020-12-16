@@ -10,10 +10,15 @@ The solution aims to provide a solution to address these challenges by developin
 
 Scope: 
 
-•	Helpful in providing treatment for those who are uncomfortable disclosing their feelings to a human being, 
+•	Helpful in providing treatment for those who are uncomfortable disclosing their feelings to a human being.
+
 •	Virtual counselling provided by a chatbot is effective for those reluctant to speak with a therapist.
+
 •	Saves users from spending money for appointments with a counsellor or therapist.
+
 •	With Emotional Intelligence, chatbots can perform almost every job an expert can, without getting tired.
+
 •	Offers users round the clock support.
+
 •	Automate tasks which are to be done frequently and at the right time
 
