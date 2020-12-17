@@ -1,6 +1,7 @@
 # Bullying Counselling Chatbot
 
 Introduction : 
+
 Teasing and bullying are seen as serious issues that can cause psychological damage in those on the receiving end. 
 Bullying is extremely hard on children. Their grades can suffer, as can their physical and mental health. Many children who are bullied on a regular basis become afraid to go to school and some children have committed or attempted to commit suicide when bullying became too overwhelming. However, these struggles may not be clearly seen by parents, guardians, and educators.
 
