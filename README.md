@@ -24,8 +24,28 @@ The solution aims to provide a solution to address these challenges by developin
 •	Automate tasks which are to be done frequently and at the right time
 
 ## Methods Used
-. Deep Learning
-. Data Preprocessing
+
+•	Deep Learning
+
+•	Data Preprocessing
+
+## Technologies
+
+•	Python 3
+
+•	NLTK
+
+•	Keras
+
+•	Pickle
+
+•	Pandas
+
+•	Json
+
+•	Xlsxwriter
+
+•	Flask
 
 
 ## Data Sources
