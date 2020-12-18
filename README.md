@@ -56,15 +56,13 @@ However, in order to train the chatbot, we have used/filtered only 3 fields - Th
 
 ## Getting Started
 
-1. Clone this repo (for help see this tutorial).
+1. Clone this repo & nstall the technologies..
 
-2. Install the above technologies.
+2. Open the code directory from the terminal via cd ~/path-to-code.
 
-3. Open the code directory from the terminal via cd ~/path-to-code.
+3. Run "python3 test.py" to show the model performance on the provided test data.
 
-4. Run "python3 test.py" to show the model performance on the provided test data.
-
-5. Run "python3 app.py" to display the chatbot via web application.
+4. Run "python3 app.py" to display the chatbot via web application.
 
 
 ### References:
