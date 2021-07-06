@@ -1,7 +1,7 @@
 
 from helper import get_response 
 
-from flask import Flask, render_template, request,json, jsonify
+from flask import Flask, render_template, request
 
 from flask_cors import CORS
 
