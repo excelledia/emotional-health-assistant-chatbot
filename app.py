@@ -10,7 +10,7 @@ CORS(app)
 
 @app.route("/")
 def home():
-    return render_template("chatbot.html")
+    return render_template("demo.html")
 
 @app.route("/get")
 def chatbot_response():
